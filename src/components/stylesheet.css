@@ -1,0 +1,34 @@
+/* //you cant export css files so linking it requires just typing import 
+"./folder/stylesheet.css" into the app.js  */
+
+h1 {
+    display: block;
+    margin: 10px;
+    border: green dotted 10px;
+}
+
+img {
+    width: 50%;
+    margin: auto 0;
+    border: pink dotted 9px;
+}
+
+#imageText {
+    
+}
+
+header {
+    margin: auto 0;
+    text-align: center;
+}
+
+footer {
+    color: pink;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h5 {
+    font-size: 50px;
+}
